@@ -7,15 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kratigupta01&label=Profile%20views&color=0e75b6&style=flat" alt="kratigupta01" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently working in Capgemini as a QA Engineer
 
-- 💬 Ask me about **Python, Java, Machine Learning, Sql**
+- 💬 Ask me about **Python, Java, Machine Learning, Sql, Test Automation**
 
 - 📫 How to reach me **kratig35@gmail.com**
 
 - 📄 Know about my experiences [[[https://drive.google.com/file/d/13PWl6kVtouVl1b-_4aLuA44CI7CJz-az/view?usp=drive_link]([[https://drive.google.com/file/d/13PWl6kVtouVl1b-_4aLuA44CI7CJz-az/view?usp=drive_link](https://drive.google.com/file/d/15Ulv6eX-fHDXQU_NLSGtbU1gyqMKOJ5Z/view?usp=sharing)](https://drive.google.com/file/d/15Ulv6eX-fHDXQU_NLSGtbU1gyqMKOJ5Z/view?usp=sharing))](https://drive.google.com/file/d/15Ulv6eX-fHDXQU_NLSGtbU1gyqMKOJ5Z/view?usp=sharing)](https://drive.google.com/file/d/15Ulv6eX-fHDXQU_NLSGtbU1gyqMKOJ5Z/view?usp=sharing)
 
-- ⚡ Fun fact **I'm fluent in both Python and sarcasm!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
