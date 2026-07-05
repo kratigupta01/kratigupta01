@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kratig35@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13PWl6kVtouVl1b-_4aLuA44CI7CJz-az/view?usp=drive_link]([[https://drive.google.com/file/d/13PWl6kVtouVl1b-_4aLuA44CI7CJz-az/view?usp=drive_link](https://drive.google.com/file/d/15Ulv6eX-fHDXQU_NLSGtbU1gyqMKOJ5Z/view?usp=sharing)](https://drive.google.com/file/d/15Ulv6eX-fHDXQU_NLSGtbU1gyqMKOJ5Z/view?usp=sharing))
+- 📄 Know about my experiences [[[https://drive.google.com/file/d/13PWl6kVtouVl1b-_4aLuA44CI7CJz-az/view?usp=drive_link]([[https://drive.google.com/file/d/13PWl6kVtouVl1b-_4aLuA44CI7CJz-az/view?usp=drive_link](https://drive.google.com/file/d/15Ulv6eX-fHDXQU_NLSGtbU1gyqMKOJ5Z/view?usp=sharing)](https://drive.google.com/file/d/15Ulv6eX-fHDXQU_NLSGtbU1gyqMKOJ5Z/view?usp=sharing))](https://drive.google.com/file/d/15Ulv6eX-fHDXQU_NLSGtbU1gyqMKOJ5Z/view?usp=sharing)](https://drive.google.com/file/d/15Ulv6eX-fHDXQU_NLSGtbU1gyqMKOJ5Z/view?usp=sharing)
 
 - ⚡ Fun fact **I'm fluent in both Python and sarcasm!**
 
